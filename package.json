@@ -1,6 +1,7 @@
 {
   "name": "aula-git01",
   "version": "0.1.0",
+  "description":  "reactjs project",
   "private": true,
   "description":"",
   "dependencies": {
