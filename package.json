@@ -1,7 +1,7 @@
 {
   "name": "aula-git01",
   "version": "0.1.0",
-  "description":  "reactjs project",
+  "description":  "reactjs project bla bla bla",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
