@@ -24,7 +24,7 @@
     "react-scripts": "3.4.3",
     "typescript": "~3.7.2"
   },
-  "description": "reactjs project nothing",
+  "description": "this is my second project",
   "eslintConfig": {
     "extends": "react-app"
   },
